@@ -10,6 +10,7 @@
 * Empty
 
 #### A
+* **ATS** : Asynchronous Traffic Shaping
 * **AVB** : Audio/Video Bridging
 
 #### B
@@ -30,19 +31,20 @@
 * **ECPDU** : ECP Data Unit
 
 #### F
-* **FDB** : Forwarding Data Base
-* **FQTSS** : Forwarding and Queuing for Time-Sensitive Streams
+* **FDB** : Filtering Database
+* **FQTSS** : Forwarding and Queuing Enhancements for Time-Sensitive Streams
 * **FRER** : Frame Replication and Elimination for Reliability
 
 #### G
 * **GB** : Guard Band
 * **GCL** : Gate Control List
-* **gPTP** : Generic PTP
+* **gPTP** : Generalized PTP
 
 #### H
 * Empty
 
 #### I
+* **IP** : Internet Protocol
 * **IT** : Information Technology
 
 #### J
@@ -63,6 +65,9 @@
 #### M
 * **MAAP** : MAC Address Acquisition Protocol
 * **MAC** : Medium Access Control
+* **MSRP** : Multiple Stream Registration Protocol
+* **MSTP** : Multiple STP
+* **MVRP** : Multiple VLAN Registration Protocol
 
 #### N
 * Empty
@@ -81,18 +86,22 @@
 * **QoS** : Quality of Service
   
 #### R
+* **R-TAG** : Redundancy TAG
 * **RAP** : Resource Allocation Protocol
+* **RSTP** : Rapid STP
 * **RSVP** : Resource ReSerVation Protocol
 
 #### S 
 * **SDN** : Software Defined Networking
 * **SRP** : Stream Reservation Protocol
+* **STP** : Spanning Tree Protocol
 
 #### T
 * **TAS** : Time Aware Scheduler
 * **TCI** : Tag Control Information
 * **TCP** : Transmission Control Protocol
 * **TSN** : Time-Sensitive Networking
+* **TSpec** : Traffic Specification
 * **TT** : Time-Triggered
 * **TLV** : Type Length Value
 
@@ -100,6 +109,7 @@
 * Empty
 
 #### V
+* **VID** : VLAN identifier
 * **VLAN** : Virtual LAN
 
 #### W
@@ -109,7 +119,7 @@
 * Empty
   
 #### Y
-* Empty
+* **YANG** : Yet Another Next Generation
 
 #### Z
 * Empty
