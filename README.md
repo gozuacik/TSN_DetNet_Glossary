@@ -1,1 +1,1 @@
-# TSN_DetNet_Glossary
+# Glossary for TSN (Time-Sensitive Networking) and DetNet (Deterministic Networking)
