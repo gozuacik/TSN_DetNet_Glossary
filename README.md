@@ -10,31 +10,41 @@
 * Empty
 
 #### A
-* Empty
+* **AVB** : Audio/Video Bridging
 
 #### B
-* Empty
+* **BE** : Best Effort
 
 #### C
-* Empty
+* **CBS** : Credit-Based Shaper
+* **CNC** : Centralized Network Configuration
+* **COTS** : Commercial off-the-shelf
+* **CQF** : Cyclic Queuing and Forwarding
+* **CUC** : Centralized User Configuration
 
 #### D
 * Empty
 
 #### E
-* Empty
+* **ECP** : Edge Control Protocol
+* **ECPDU** : Edge Control Protocol Data Unit
 
 #### F
-* Empty
+* **FDB** : Forwarding Data Base
+* **FQTSS** : Forwarding and Queuing for Time-Sensitive Streams
+* **FRER** : Frame Replication and Elimination for Reliability
 
 #### G
-* Empty
+* **GB** : Guard Band
+* **GCL** : Gate Control List
+* **gPTP** : Generic Precision Time Protocol
 
 #### H
 * Empty
 
 #### I
-* Empty
+* **IT** : Information Technology
+
 
 #### J
 * Boş
@@ -43,19 +53,26 @@
 * Empty
 
 #### L
-* Empty
+* **LLDP** : Link Layer Discovery Protocol
+* **LLDPDU** : Link Layer Discovery Protocol Data Unit
+* **LRP** : Link-local Registration Protocol
+* **LRP-DS** : Link-local Registration Protocol–Database Synchronization
+* **LRP-DT** : Link-local Registration Protocol–Data Transport
+* **LRPDU** : Link-local Registration Protocol Data Unit
 
 #### M
-* Empty
+* **MAAP** : MAC Address Acquisition Protocol
 
 #### N
 * Empty
 
 #### O
-* Empty
+* **OPC-UA** : Open Platform Communications-Unified Architecture
+* **OT** : Operation Technology
+* **OUI** : Organizationally Unique Identifier
 
 #### P
-* Empty
+* **PCP** : Priority Code Point
 
 #### Q
 * Empty
