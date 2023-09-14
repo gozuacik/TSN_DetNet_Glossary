@@ -82,8 +82,10 @@
   
 #### R
 * **RAP** : Resource Allocation Protocol
+* **RSVP** : Resource ReSerVation Protocol
 
 #### S 
+* **SDN** : Software Defined Networking
 * **SRP** : Stream Reservation Protocol
 
 #### T
