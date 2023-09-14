@@ -23,11 +23,11 @@
 * **CUC** : Centralized User Configuration
 
 #### D
-* Empty
+* **DetNet** : Deterministic Networking
 
 #### E
 * **ECP** : Edge Control Protocol
-* **ECPDU** : Edge Control Protocol Data Unit
+* **ECPDU** : ECP Data Unit
 
 #### F
 * **FDB** : Forwarding Data Base
@@ -37,7 +37,7 @@
 #### G
 * **GB** : Guard Band
 * **GCL** : Gate Control List
-* **gPTP** : Generic Precision Time Protocol
+* **gPTP** : Generic PTP
 
 #### H
 * Empty
@@ -45,23 +45,24 @@
 #### I
 * **IT** : Information Technology
 
-
 #### J
-* Boş
+* Empty
 
 #### K
 * Empty
 
 #### L
+* **LAN** : Local Area Network
 * **LLDP** : Link Layer Discovery Protocol
-* **LLDPDU** : Link Layer Discovery Protocol Data Unit
+* **LLDPDU** : LLDP Data Unit
 * **LRP** : Link-local Registration Protocol
-* **LRP-DS** : Link-local Registration Protocol–Database Synchronization
-* **LRP-DT** : Link-local Registration Protocol–Data Transport
-* **LRPDU** : Link-local Registration Protocol Data Unit
+* **LRP-DS** : LRP–Database Synchronization
+* **LRP-DT** : LRP–Data Transport
+* **LRPDU** : LRP Data Unit
 
 #### M
 * **MAAP** : MAC Address Acquisition Protocol
+* **MAC** : Medium Access Control
 
 #### N
 * Empty
@@ -73,33 +74,40 @@
 
 #### P
 * **PCP** : Priority Code Point
+* **PSPF** : Per-Stream Filtering and Policing
+* **PTP** : Precision Time Protocol
 
 #### Q
-* Empty
+* **QoS** : Quality of Service
   
 #### R
-* Boş
+* **RAP** : Resource Allocation Protocol
 
 #### S 
-* Empty
+* **SRP** : Stream Reservation Protocol
 
 #### T
-* Empty
+* **TAS** : Time Aware Scheduler
+* **TCI** : Tag Control Information
+* **TCP** : Transmission Control Protocol
+* **TSN** : Time-Sensitive Networking
+* **TT** : Time-Triggered
+* **TLV** : Type Length Value
 
 #### U
 * Empty
 
 #### V
-* Empty
+* **VLAN** : Virtual LAN
 
 #### W
 * Empty
 
 #### X
-* Boş
+* Empty
   
 #### Y
-* Boş
+* Empty
 
 #### Z
-* Boş
+* Empty
