@@ -105,7 +105,7 @@
 * **TLV** : Type Length Value
 
 #### U
-* Empty
+* **UDP** : User Datagram Protocol
 
 #### V
 * **VID** : VLAN identifier
