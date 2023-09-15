@@ -86,7 +86,6 @@
 * **QoS** : Quality of Service
   
 #### R
-* **R-TAG** : Redundancy TAG
 * **RAP** : Resource Allocation Protocol
 * **RSTP** : Rapid STP
 * **RSVP** : Resource ReSerVation Protocol
