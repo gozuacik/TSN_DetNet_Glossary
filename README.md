@@ -65,8 +65,10 @@
 #### M
 * **MAAP** : MAC Address Acquisition Protocol
 * **MAC** : Medium Access Control
+* **MPLS** : Multiprotocol Label Switching
 * **MSRP** : Multiple Stream Registration Protocol
 * **MSTP** : Multiple STP
+* **MTU** : Maximum Transmission Unit
 * **MVRP** : Multiple VLAN Registration Protocol
 
 #### N
@@ -99,6 +101,7 @@
 * **TAS** : Time Aware Scheduler
 * **TCI** : Tag Control Information
 * **TCP** : Transmission Control Protocol
+* **TE** : Traffic Engineering
 * **TSN** : Time-Sensitive Networking
 * **TSpec** : Traffic Specification
 * **TT** : Time-Triggered
