@@ -25,6 +25,7 @@
 
 #### D
 * **DetNet** : Deterministic Networking
+* **Diffserv** : Differentiated Services
 
 #### E
 * **ECP** : Edge Control Protocol
@@ -61,6 +62,8 @@
 * **LRP-DS** : LRP–Database Synchronization
 * **LRP-DT** : LRP–Data Transport
 * **LRPDU** : LRP Data Unit
+* **LSP** : Label Switched Path
+* **LSR** : Label Switching Router
 
 #### M
 * **MAAP** : MAC Address Acquisition Protocol
@@ -75,12 +78,16 @@
 * Empty
 
 #### O
+* **OAM** : Operations, Administration, and Maintenance
 * **OPC-UA** : Open Platform Communications-Unified Architecture
 * **OT** : Operation Technology
 * **OUI** : Organizationally Unique Identifier
 
 #### P
 * **PCP** : Priority Code Point
+* **PEF** : Packet Elimination Function
+* **PREOF** : Packet Replication, Elimination, and Ordering Functions
+* **PRF** : Packet Replication Function
 * **PSPF** : Per-Stream Filtering and Policing
 * **PTP** : Precision Time Protocol
 
@@ -91,6 +98,7 @@
 * **RAP** : Resource Allocation Protocol
 * **RSTP** : Rapid STP
 * **RSVP** : Resource ReSerVation Protocol
+* **RSVP-TE** : RSVP - Traffic Engineering
 
 #### S 
 * **SDN** : Software Defined Networking
