@@ -33,6 +33,7 @@
 
 #### F
 * **FDB** : Filtering Database
+* **FIFO** : First In First Out
 * **FQTSS** : Forwarding and Queuing Enhancements for Time-Sensitive Streams
 * **FRER** : Frame Replication and Elimination for Reliability
 
