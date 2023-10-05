@@ -108,6 +108,7 @@
 
 #### T
 * **TAS** : Time Aware Scheduler
+* **TC** : Traffic Class
 * **TCI** : Tag Control Information
 * **TCP** : Transmission Control Protocol
 * **TE** : Traffic Engineering
