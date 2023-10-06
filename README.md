@@ -17,19 +17,23 @@
 * **BE** : Best Effort
 
 #### C
+* **CBR** : Constant Bit-Rate
 * **CBS** : Credit-Based Shaper
 * **CNC** : Centralized Network Configuration
 * **COTS** : Commercial off-the-shelf
+* **CPS** : Cyber-Physical System
 * **CQF** : Cyclic Queuing and Forwarding
 * **CUC** : Centralized User Configuration
 
 #### D
 * **DetNet** : Deterministic Networking
 * **Diffserv** : Differentiated Services
+* **DS-TT** : Device Side TSN Translator
 
 #### E
 * **ECP** : Edge Control Protocol
 * **ECPDU** : ECP Data Unit
+* **eMBB** : Enhanced Mobile Broadband
 
 #### F
 * **FDB** : Filtering Database
@@ -69,6 +73,8 @@
 #### M
 * **MAAP** : MAC Address Acquisition Protocol
 * **MAC** : Medium Access Control
+* **MEC** : Multi-access Edge Computing
+* **mMTC** : Massive Machine Type Communication
 * **MPLS** : Multiprotocol Label Switching
 * **MSRP** : Multiple Stream Registration Protocol
 * **MSTP** : Multiple STP
@@ -76,11 +82,14 @@
 * **MVRP** : Multiple VLAN Registration Protocol
 
 #### N
-* Empty
+* **NFV** : Network Function Virtualization
+* **NTP** : Network Time Protocol
 
 #### O
 * **OAM** : Operations, Administration, and Maintenance
 * **OPC-UA** : Open Platform Communications-Unified Architecture
+* **OSI** : Open Systems Interconnection
+* **OSPF** : Open Shortest Path First
 * **OT** : Operation Technology
 * **OUI** : Organizationally Unique Identifier
 
@@ -96,6 +105,7 @@
 * **QoS** : Quality of Service
   
 #### R
+* **RAN** : Radio Access Network
 * **RAP** : Resource Allocation Protocol
 * **RSTP** : Rapid STP
 * **RSVP** : Resource ReSerVation Protocol
@@ -103,6 +113,7 @@
 
 #### S 
 * **SDN** : Software Defined Networking
+* **SNMP** : Simple Network Management Protocol
 * **SRP** : Stream Reservation Protocol
 * **STP** : Spanning Tree Protocol
 
@@ -112,6 +123,7 @@
 * **TCI** : Tag Control Information
 * **TCP** : Transmission Control Protocol
 * **TE** : Traffic Engineering
+* **TSA** : Transmission Selection Algorithm
 * **TSN** : Time-Sensitive Networking
 * **TSpec** : Traffic Specification
 * **TT** : Time-Triggered
@@ -119,6 +131,7 @@
 
 #### U
 * **UDP** : User Datagram Protocol
+* **uRLLC** : Ultra-Reliable Low Latency Communication
 
 #### V
 * **VID** : VLAN identifier
@@ -128,9 +141,10 @@
 * Empty
 
 #### X
-* Empty
+* **XML** : Extensible Markup Language
   
 #### Y
+* **YAML** : Yet Another Markup Language
 * **YANG** : Yet Another Next Generation
 
 #### Z
