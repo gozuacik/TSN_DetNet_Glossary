@@ -19,6 +19,7 @@
 #### C
 * **CBR** : Constant Bit-Rate
 * **CBS** : Credit-Based Shaper
+* **CIR** : Committed Information Rate
 * **CNC** : Centralized Network Configuration
 * **COTS** : Commercial off-the-shelf
 * **CPS** : Cyber-Physical System
@@ -33,6 +34,7 @@
 #### E
 * **ECP** : Edge Control Protocol
 * **ECPDU** : ECP Data Unit
+* **EIR** : Excess Information Rate
 * **eMBB** : Enhanced Mobile Broadband
 
 #### F
