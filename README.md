@@ -75,6 +75,7 @@
 #### M
 * **MAAP** : MAC Address Acquisition Protocol
 * **MAC** : Medium Access Control
+* **MACsec** : MAC Security
 * **MEC** : Multi-access Edge Computing
 * **mMTC** : Massive Machine Type Communication
 * **MPLS** : Multiprotocol Label Switching
