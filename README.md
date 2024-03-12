@@ -105,6 +105,7 @@
 * **PTP** : Precision Time Protocol
 
 #### Q
+* **QoE** : Quality of Experience
 * **QoS** : Quality of Service
   
 #### R
