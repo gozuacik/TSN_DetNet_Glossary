@@ -142,7 +142,7 @@
 * **VLAN** : Virtual LAN
 
 #### W
-* Empty
+* **WCD** : Worst-Case Delay
 
 #### X
 * **XML** : Extensible Markup Language
