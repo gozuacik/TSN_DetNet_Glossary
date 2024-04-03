@@ -32,6 +32,7 @@
 * **DS-TT** : Device Side TSN Translator
 
 #### E
+* **E2E** : End to End
 * **ECP** : Edge Control Protocol
 * **ECPDU** : ECP Data Unit
 * **EIR** : Excess Information Rate
