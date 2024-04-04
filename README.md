@@ -100,6 +100,7 @@
 #### P
 * **PCP** : Priority Code Point
 * **PEF** : Packet Elimination Function
+* **POF** : Packet Ordering Function
 * **PREOF** : Packet Replication, Elimination, and Ordering Functions
 * **PRF** : Packet Replication Function
 * **PSPF** : Per-Stream Filtering and Policing
