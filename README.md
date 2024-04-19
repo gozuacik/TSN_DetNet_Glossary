@@ -18,6 +18,7 @@
 
 #### C
 * **CBR** : Constant Bit-Rate
+* **CBS** : Committed Burst Size
 * **CBS** : Credit-Based Shaper
 * **CIR** : Committed Information Rate
 * **CNC** : Centralized Network Configuration
@@ -124,7 +125,7 @@
 * **STP** : Spanning Tree Protocol
 
 #### T
-* **TAS** : Time Aware Scheduler
+* **TAS** : Time Aware Shaper
 * **TC** : Traffic Class
 * **TCI** : Tag Control Information
 * **TCP** : Transmission Control Protocol
