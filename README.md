@@ -104,6 +104,7 @@
 * **POF** : Packet Ordering Function
 * **PREOF** : Packet Replication, Elimination, and Ordering Functions
 * **PRF** : Packet Replication Function
+* **PRP** : Parallel Redundancy Protocol
 * **PSPF** : Per-Stream Filtering and Policing
 * **PTP** : Precision Time Protocol
 
